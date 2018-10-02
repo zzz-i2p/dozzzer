@@ -15,7 +15,7 @@ cache:
 
 env:
   global:
-    # See https://git.io/vdao3 for details.
+    # См https://git.io/vdao3 для получения подробной информации.
     - JOBS=1
 
 before_install:
