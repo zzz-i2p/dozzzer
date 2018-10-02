@@ -1,0 +1,6 @@
+{
+  "name": "dozzzer",
+  "dependencies": {
+    "materialize": "0.97.6"
+  }
+}
